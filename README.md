@@ -104,10 +104,4 @@ In view of the growing population, the university is planning to establish an e-
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br><br>
 
-## 🙌 Support me!
 
-👉 If you find this project useful, **please ⭐ this repository 😆**!
-
----
-
-👉 _More about myself: <a href="https://linktr.ee/caesarmario_"> here </a>_
